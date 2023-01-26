@@ -1,0 +1,2 @@
+V	320111133522Z		01	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=CA_MarkoRadusinovic/CN=SUB_CA_1
+V	320111134126Z		02	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=CA_MarkoRadusinovic/CN=SUB_CA_2
